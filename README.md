@@ -23,4 +23,14 @@
 - 仅供研究使用
 
 ## 截图
-（放你那些黑曜石头盔、绿幕方块、黑色玩家的截图）
+<img width="580" height="358" alt="屏幕截图 2026-05-03 212421" src="https://github.com/user-attachments/assets/55a9aeb3-0021-4bca-8672-38f3f45b14e5" />
+2026/5/3 "a black player" 上传者：obler
+
+<img width="714" height="578" alt="屏幕截图 2026-05-01 191010" src="https://github.com/user-attachments/assets/af401ded-de93-4e5a-af6c-bab94c7580f1" />
+2026/5/2 "my COOL HOUSE!" 上传者：obler
+
+<img width="1915" height="1073" alt="屏幕截图 2026-03-15 124022" src="https://github.com/user-attachments/assets/e2880db4-cb5e-46d3-b168-c801c346fe12" />
+2026/3/8 "IT IS DEV 06(fake)" 上传者：obler
+
+
+
