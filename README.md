@@ -3,14 +3,14 @@
 本仓库收集 Minecraft Alpha 16.05 分支的各个版本，主要用于研究、备份和 ARG 叙事。
 
 ## 版本列表
-2026/2/2 Alpha v1.0.16.05_20 Cypress
-2026/3/1 Alpha v1.0.16.05_13 Lilypad
-2026/3/1 Alpha v1.0.16.05 PREVIEW 【×】未上传 原因：文件太大
-2026/3/2 Alpha v1.0.16.05 UNR.PREVIEW2
-2026/3/3 Alpha v1.0.16.05 03
-2026/3/3 Alpha v1.0.16.05 04
-2026/3/3 Alpha v1.0.16.05 05
-2026/5/3 Alpha v1.0.16.05 01
+-2026/2/2 Alpha v1.0.16.05_20 Cypress
+-2026/3/1 Alpha v1.0.16.05_13 Lilypad
+-2026/3/1 Alpha v1.0.16.05 PREVIEW 【×】未上传 原因：文件太大
+-2026/3/2 Alpha v1.0.16.05 UNR.PREVIEW2
+-2026/3/3 Alpha v1.0.16.05 03
+-2026/3/3 Alpha v1.0.16.05 04
+-2026/3/3 Alpha v1.0.16.05 05
+-2026/5/3 Alpha v1.0.16.05 01
 
 ## 来源
 - AlphaVer Wiki
